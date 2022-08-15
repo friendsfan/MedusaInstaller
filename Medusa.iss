@@ -15,7 +15,7 @@
 #define DefaultPort 8081
 
 #define InstallerVersion 10006
-#define InstallerSeedUrl "https://github.com/friendsfan/MedusaInstaller/blob/master/seed.ini"
+#define InstallerSeedUrl "https://raw.githubusercontent.com/friendsfan/MedusaInstaller/master/seed.ini"
 #define AppRepoUrl "https://github.com/3OW/Medusa.git"
 #define AppSize 246784000
 
